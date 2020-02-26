@@ -11,3 +11,6 @@ https://exp.host/@geekysrm/auto-connect
 ## Video Demo:
 
 [![AutoConnect Video Demo](https://res.cloudinary.com/geekysrm/image/upload/v1552161938/image.png)](https://player.vimeo.com/video/317749277)
+
+## Made by:
+This project was made by Team Trojans for NEC Hacktathon in 2019.
